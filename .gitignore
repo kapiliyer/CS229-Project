@@ -1,2 +1,4 @@
 .DS_Store
 /models
+scratch.ipynb
+/__pycache__
