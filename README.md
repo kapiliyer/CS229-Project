@@ -4,7 +4,7 @@ We implement a set of transformer-MLP models to perform the paraphrase detection
 We created models in the regime of classical training, with a separate model for each task, as well as models using multitask training.
 We drew on recent research on how to best resolve the conflicting gradients problem under the regime of multitask training.
 
-### Conflicting Gradients Solutions
+### Referenced Implementations for Conflicting Gradients Solutions
 
 - https://github.com/LucasBoTang/GradNorm (GradNorm)
 - https://github.com/WeiChengTseng/Pytorch-PCGrad (PCGrad)
