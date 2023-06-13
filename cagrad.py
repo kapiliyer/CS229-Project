@@ -22,7 +22,7 @@ def apply_1d_grad(grad, params):
         index += total_size
 
 def cagrad(g1, g2, c=0.5):
-    # mostly taken from https://github.com/Cranial-XIX/CAGrad/blob/main/toy.py
+    # see reference: https://github.com/Cranial-XIX/CAGrad/blob/main/toy.py
     g0 = (g1 + g2) / 2
     
     g11 = g1.dot(g1).item()

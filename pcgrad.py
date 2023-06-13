@@ -1,5 +1,5 @@
 """
-https://github.com/WeiChengTseng/Pytorch-PCGrad
+see reference: https://github.com/WeiChengTseng/Pytorch-PCGrad
 """
 import torch
 import torch.nn as nn
