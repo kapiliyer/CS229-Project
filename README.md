@@ -13,3 +13,6 @@ We drew on recent research on how to best resolve the conflicting gradients prob
 ### Datasets
 - https://www.kaggle.com/c/quora-question-pairs (PARA)
 - https://huggingface.co/datasets/mteb/stsbenchmark-sts (STS)
+
+## Paper
+- https://drive.google.com/file/d/1febRMEIzCkzs3YSZcdtMjYpWKDilLwn6/view?usp=drive_link
