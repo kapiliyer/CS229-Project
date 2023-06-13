@@ -1,4 +1,4 @@
-# CS 229 Project
+# Solutions to the Conflicting Gradients Problem in Multitask Training
 
 We implement a set of transformer-MLP models to perform the paraphrase detection and semantic textual similarity tasks.
 We created models in the regime of classical training, with a separate model for each task, as well as models using multitask training.
